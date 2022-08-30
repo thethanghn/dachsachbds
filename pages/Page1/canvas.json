@@ -304,7 +304,7 @@
                 "id": 60,
                 "email": 247,
                 "stt": 60,
-                "name": 391,
+                "name": 357,
                 "area": 60,
                 "district": 81
               }
@@ -377,7 +377,7 @@
                       "animateLoading": true,
                       "dynamicTriggerPathList": [],
                       "resetOnSubmit": true,
-                      "leftColumn": 12,
+                      "leftColumn": 14,
                       "dynamicBindingPathList": [
                         {
                           "key": "accentColor"
@@ -442,7 +442,7 @@
                       "text": "District",
                       "key": "2decahmcmh",
                       "isDeprecated": false,
-                      "rightColumn": 11,
+                      "rightColumn": 13,
                       "textAlign": "LEFT",
                       "widgetId": "meah3wdwq4",
                       "isVisible": true,
@@ -529,7 +529,7 @@
                       "text": "Name",
                       "key": "2decahmcmh",
                       "isDeprecated": false,
-                      "rightColumn": 9,
+                      "rightColumn": 13,
                       "textAlign": "LEFT",
                       "widgetId": "k0wlrgqvh3",
                       "isVisible": true,
@@ -555,14 +555,14 @@
                       ],
                       "topRow": 6,
                       "bottomRow": 10,
-                      "labelWidth": 5,
+                      "labelWidth": "5",
                       "autoFocus": false,
                       "type": "INPUT_WIDGET_V2",
                       "hideCard": false,
                       "animateLoading": true,
                       "dynamicTriggerPathList": [],
                       "resetOnSubmit": true,
-                      "leftColumn": 12,
+                      "leftColumn": 14,
                       "dynamicBindingPathList": [
                         {
                           "key": "accentColor"
@@ -627,7 +627,7 @@
                       "text": "Link",
                       "key": "2decahmcmh",
                       "isDeprecated": false,
-                      "rightColumn": 9,
+                      "rightColumn": 13,
                       "textAlign": "LEFT",
                       "widgetId": "0ib2yooo67",
                       "isVisible": true,
@@ -660,7 +660,7 @@
                       "animateLoading": true,
                       "dynamicTriggerPathList": [],
                       "resetOnSubmit": true,
-                      "leftColumn": 12,
+                      "leftColumn": 14,
                       "dynamicBindingPathList": [
                         {
                           "key": "accentColor"
@@ -725,7 +725,7 @@
                       "text": "Area",
                       "key": "2decahmcmh",
                       "isDeprecated": false,
-                      "rightColumn": 11,
+                      "rightColumn": 13,
                       "textAlign": "LEFT",
                       "widgetId": "9ne5uhg4y9",
                       "isVisible": true,
@@ -758,7 +758,7 @@
                       "animateLoading": true,
                       "dynamicTriggerPathList": [],
                       "resetOnSubmit": true,
-                      "leftColumn": 12,
+                      "leftColumn": 14,
                       "dynamicBindingPathList": [
                         {
                           "key": "accentColor"
